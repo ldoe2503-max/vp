@@ -1,0 +1,9 @@
+bip_utils==2.12.2
+cryptography==50.0.1
+mnemonic==0.21
+monero==1.1.1
+PyNaCl==1.6.2
+requests==2.34.2
+tonsdk==1.0.15
+tronpy==0.6.2
+pyinstaller==6.11.1
